@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirRaja7
 - 👀 I’m interested in Data Science and Data Vsiualization
-- 🌱 I’m currently learning Python and Data Sciences
-- 💞️ I’m looking to collaborate on DS Projects
+- 🌱 I’m currently learning Python, Machine Learning in reference to Data Sciences
+- 💞️ I’m looking to collaborate on Data science and Machine Learning Projects
 - 📫 How to reach me amir.raja110@gmail.com
 
 <!---
